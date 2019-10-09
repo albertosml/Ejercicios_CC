@@ -1,0 +1,7 @@
+# No se aceptan pdf
+*.pdf
+
+# No se aceptan archivos comprimidos
+*.zip
+*.tar.gz
+*.tar
